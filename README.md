@@ -2,7 +2,7 @@
 
 ## 專案介紹影片
 
-[![突破邊緣AI散熱極限](https://img.youtube.com/vi/AjJswh-fFsw/maxresdefault.jpg)](https://www.youtube.com/watch?v=AjJswh-fFsw)
+[![突破邊緣AI散熱極限](./cover.png)](https://www.youtube.com/watch?v=AjJswh-fFsw)
 *(點擊上方圖片或[此連結](https://www.youtube.com/watch?v=AjJswh-fFsw)前往 YouTube 觀看影片)*
 
 ---
